@@ -1,0 +1,5 @@
+2/6/2020 3:41:49 PM: Daily Reporting service started
+2/6/2020 4:07:27 PM: Daily Reporting service stopped
+2/6/2020 4:15:56 PM: Daily Reporting service started
+2/6/2020 4:21:31 PM: Daily Reporting service started
+2/6/2020 4:24:23 PM: Daily Reporting service stopped

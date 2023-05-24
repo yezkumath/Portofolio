@@ -1,0 +1,36 @@
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\KirimEmailOtomatis.exe.config
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\KirimEmailOtomatis.exe
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\KirimEmailOtomatis.pdb
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\SettingLib.dll
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.ProjectInstaller.resources
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.csproj.GenerateResource.cache
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.csproj.CopyComplete
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.exe
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.pdb
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\KirimEmailOtomatis.exe.config
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\KirimEmailOtomatis.exe
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\KirimEmailOtomatis.pdb
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\SettingLib.dll
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\SettingLibMulti.dll
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.csprojAssemblyReference.cache
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.ProjectInstaller.resources
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.csproj.GenerateResource.cache
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.csproj.CopyComplete
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.exe
+D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.pdb
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\KirimEmailOtomatis.exe.config
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\KirimEmailOtomatis.exe
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\KirimEmailOtomatis.pdb
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Release\SettingLibMulti.dll
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.ProjectInstaller.resources
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.csproj.GenerateResource.cache
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.csproj.CopyComplete
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.exe
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.pdb
+D:\Kuliah\Semester8\Magang\Project\APP Test\F-KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\obj\Release\KirimEmailOtomatis.csprojAssemblyReference.cache

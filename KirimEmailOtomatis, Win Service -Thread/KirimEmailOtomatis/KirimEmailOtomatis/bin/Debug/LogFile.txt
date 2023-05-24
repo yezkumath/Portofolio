@@ -1,0 +1,438 @@
+
+02/03/2020 14:52:17: Daily Reporting service started
+02/03/2020 14:57:18: Thread - 0started
+02/03/2020 14:57:18: Thread - 1started
+02/03/2020 14:57:18: add 1
+02/03/2020 14:57:18: add 2
+02/03/2020 14:57:19: date pass
+02/03/2020 14:57:19: fail because 02/03/2020== 02/03/2020
+02/03/2020 14:57:20: fail because 02/03/2020== 02/03/2020
+02/03/2020 15:04:29: Daily Reporting service started
+02/03/2020 15:05:29: Thread - 0started
+02/03/2020 15:05:29: Thread - 1started
+02/03/2020 15:05:29: Thread - 2started
+02/03/2020 15:05:29: add 2
+02/03/2020 15:05:31: date pass
+02/03/2020 15:05:31: date pass
+02/03/2020 15:05:31: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:05:32: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:06:29: Thread - 0started
+02/03/2020 15:06:29: Thread - 1started
+02/03/2020 15:06:29: add 1
+02/03/2020 15:06:29: add 2
+02/03/2020 15:06:29: date pass
+02/03/2020 15:06:29: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:06:29: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:07:29: Thread - 0started
+02/03/2020 15:07:29: Thread - 1started
+02/03/2020 15:07:29: add 1
+02/03/2020 15:07:29: add 2
+02/03/2020 15:07:29: date pass
+02/03/2020 15:07:29: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:07:29: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:08:29: Thread - 0started
+02/03/2020 15:08:29: Thread - 1started
+02/03/2020 15:08:29: add 1
+02/03/2020 15:08:29: add 2
+02/03/2020 15:08:29: date pass
+02/03/2020 15:08:29: date cek pass because 02/03/2020!= 01/03/2020
+02/03/2020 15:08:29: date cek pass because 02/03/2020!= 01/03/2020
+02/03/2020 15:09:29: Thread - 0started
+02/03/2020 15:09:29: add 0
+02/03/2020 15:09:29: Thread - 2started
+02/03/2020 15:09:29: add 2
+02/03/2020 15:09:29: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:09:29: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:09:29: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:10:29: Thread - 0started
+02/03/2020 15:10:29: Thread - 1started
+02/03/2020 15:10:29: add 1
+02/03/2020 15:10:29: add 2
+02/03/2020 15:10:29: date pass
+02/03/2020 15:10:29: date pass
+02/03/2020 15:10:29: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:11:29: Thread - 0started
+02/03/2020 15:11:29: Thread - 1started
+02/03/2020 15:11:29: Thread - 2started
+02/03/2020 15:11:29: add 2
+02/03/2020 15:11:29: date pass
+02/03/2020 15:11:29: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:11:32: date pass
+02/03/2020 15:11:32: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:11:32: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:12:29: Thread - 0started
+02/03/2020 15:12:29: add 0
+02/03/2020 15:12:29: Thread - 2started
+02/03/2020 15:12:29: add 2
+02/03/2020 15:12:29: date pass
+02/03/2020 15:12:29: date pass
+02/03/2020 15:12:29: date pass
+02/03/2020 15:12:29: fail because 02/03/2020 == 02/03/2020
+02/03/2020 15:12:29: fail because 02/03/2020 == 02/03/2020
+04/03/2020 11:10:58: Daily Reporting service started
+04/03/2020 11:15:59: Thread - 0started
+04/03/2020 11:15:59: Thread - 1started
+04/03/2020 11:15:59: add 1
+04/03/2020 11:15:59: add 2
+04/03/2020 11:16:01: date pass
+04/03/2020 11:16:02: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:16:02: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:16:02: KirimEmailOtomatis; Object reference not set to an instance of an object.
+04/03/2020 11:20:27: Daily Reporting service started
+04/03/2020 11:25:27: Thread - 0started
+04/03/2020 11:25:28: Thread - 1started
+04/03/2020 11:25:28: add 1
+04/03/2020 11:25:28: add 2
+04/03/2020 11:25:29: date pass
+04/03/2020 11:25:29: date pass
+04/03/2020 11:25:29: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:25:30: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:25:30: KirimEmailOtomatis; Object reference not set to an instance of an object.
+04/03/2020 11:25:30: KirimEmailOtomatis; Object reference not set to an instance of an object.
+04/03/2020 11:25:30: KirimEmailOtomatis; Object reference not set to an instance of an object.
+04/03/2020 11:27:20: Daily Reporting service started
+04/03/2020 11:32:20: Thread - 0started
+04/03/2020 11:32:20: Thread - 1started
+04/03/2020 11:32:20: add 1
+04/03/2020 11:32:20: add 2
+04/03/2020 11:32:21: date pass
+04/03/2020 11:32:21: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:32:21: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:32:22: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:32:22: KirimEmailOtomatis; Object reference not set to an instance of an object.
+04/03/2020 11:33:35: Daily Reporting service started
+04/03/2020 11:38:35: Thread - 0started
+04/03/2020 11:38:35: Thread - 1started
+04/03/2020 11:38:35: add 1
+04/03/2020 11:38:35: add 2
+04/03/2020 11:38:36: date pass
+04/03/2020 11:38:37: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:38:37: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:38:37: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:38:37: KirimEmailOtomatis; Object reference not set to an instance of an object.
+04/03/2020 11:38:37: KirimEmailOtomatis; Object reference not set to an instance of an object.
+04/03/2020 11:42:06: Daily Reporting service started
+04/03/2020 11:43:06: Thread - 0started
+04/03/2020 11:43:06: Thread - 1started
+04/03/2020 11:43:06: add 1
+04/03/2020 11:43:06: add 2
+04/03/2020 11:43:07: date pass
+04/03/2020 11:43:08: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:43:08: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:43:54: Daily Reporting service started
+04/03/2020 11:44:55: Thread - 0started
+04/03/2020 11:44:55: Thread - 1started
+04/03/2020 11:44:55: add 1
+04/03/2020 11:44:55: add 2
+04/03/2020 11:44:57: date pass
+04/03/2020 11:44:57: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:44:57: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:44:57: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 11:46:01: Thread - 0Is Alive
+04/03/2020 11:46:04: Thread - 1Is Alive
+04/03/2020 11:46:06: Thread - 2Is Alive
+04/03/2020 11:47:08: Thread - 0Is Alive
+04/03/2020 11:47:09: Thread - 1Is Alive
+04/03/2020 11:47:13: Thread - 2Is Alive
+04/03/2020 11:48:09: Thread - 0Is Alive
+04/03/2020 11:48:11: KirimEmailOtomatis; Object reference not set to an instance of an object.
+04/03/2020 11:48:13: Thread - 2Is Alive
+04/03/2020 11:48:15: KirimEmailOtomatis; Object reference not set to an instance of an object.
+04/03/2020 13:05:31: Daily Reporting service started
+04/03/2020 13:05:46: Daily Reporting service started
+04/03/2020 13:06:47: Thread - 0started
+04/03/2020 13:06:47: Thread - 1started
+04/03/2020 13:06:47: add 1
+04/03/2020 13:06:47: add 2
+04/03/2020 13:06:50: date pass
+04/03/2020 13:06:50: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 13:06:50: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 13:06:51: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 13:10:43: Daily Reporting service started
+04/03/2020 13:11:44: Thread - 0started
+04/03/2020 13:11:44: Thread - 1started
+04/03/2020 13:11:44: add 1
+04/03/2020 13:11:44: add 2
+04/03/2020 13:11:45: date pass
+04/03/2020 13:11:45: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 13:11:45: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 13:11:45: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 13:14:51: Thread - 0Is Alive
+04/03/2020 13:14:51: Thread - 1Is Alive
+04/03/2020 13:14:51: Thread - 2Is Alive
+04/03/2020 14:22:50: Daily Reporting service started
+04/03/2020 14:23:50: Thread - 0started
+04/03/2020 14:23:50: Thread - 1started
+04/03/2020 14:23:50: Thread - 2started
+04/03/2020 14:23:50: add 2
+04/03/2020 14:23:52: date pass
+04/03/2020 14:23:52: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 14:23:53: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 14:23:53: The specified string is not in the form required for an e-mail address.
+04/03/2020 14:23:53: The specified string is not in the form required for an e-mail address.
+04/03/2020 14:24:50: Thread - 0started
+04/03/2020 14:24:50: add 0
+04/03/2020 14:24:50: add 1
+04/03/2020 14:24:50: add 2
+04/03/2020 14:24:50: date pass
+04/03/2020 14:24:50: date pass
+04/03/2020 14:24:51: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:24:51: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:25:50: Thread - 0started
+04/03/2020 14:25:50: Thread - 1started
+04/03/2020 14:25:50: add 1
+04/03/2020 14:25:50: add 2
+04/03/2020 14:25:50: date pass
+04/03/2020 14:25:50: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:26:50: Thread - 0started
+04/03/2020 14:26:50: add 0
+04/03/2020 14:26:50: add 2
+04/03/2020 14:26:50: date pass
+04/03/2020 14:26:50: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:27:50: Thread - 0started
+04/03/2020 14:27:50: add 0
+04/03/2020 14:27:50: Thread - 2started
+04/03/2020 14:27:50: add 2
+04/03/2020 14:27:50: date pass
+04/03/2020 14:27:50: date pass
+04/03/2020 14:27:50: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:27:50: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:28:50: Thread - 0started
+04/03/2020 14:28:50: Thread - 1started
+04/03/2020 14:28:50: Thread - 2started
+04/03/2020 14:28:50: add 2
+04/03/2020 14:28:50: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:28:50: date pass
+04/03/2020 14:28:50: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:28:50: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:29:50: Thread - 0started
+04/03/2020 14:29:50: add 0
+04/03/2020 14:29:50: Thread - 2started
+04/03/2020 14:29:50: add 2
+04/03/2020 14:29:50: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:29:50: date pass
+04/03/2020 14:29:50: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:40:37: Daily Reporting service started
+04/03/2020 14:41:37: Thread - 0started
+04/03/2020 14:41:37: Thread - 1started
+04/03/2020 14:41:37: add 1
+04/03/2020 14:41:37: add 2
+04/03/2020 14:41:38: date pass
+04/03/2020 14:41:38: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:41:39: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:41:39: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:42:58: Daily Reporting service started
+04/03/2020 14:43:59: Thread - 0started
+04/03/2020 14:43:59: Thread - 1started
+04/03/2020 14:43:59: add 1
+04/03/2020 14:43:59: add 2
+04/03/2020 14:44:00: date pass
+04/03/2020 14:44:00: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:44:00: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:44:00: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:44:58: Thread - 0started
+04/03/2020 14:44:58: add 0
+04/03/2020 14:44:58: add 2
+04/03/2020 14:44:58: date pass
+04/03/2020 14:44:58: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:45:58: Thread - 0started
+04/03/2020 14:45:58: add 0
+04/03/2020 14:45:58: Thread - 2started
+04/03/2020 14:45:58: add 2
+04/03/2020 14:45:58: date pass
+04/03/2020 14:45:58: date pass
+04/03/2020 14:45:59: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:46:58: Thread - 0started
+04/03/2020 14:46:58: Thread - 1started
+04/03/2020 14:46:58: Thread - 2started
+04/03/2020 14:46:58: add 2
+04/03/2020 14:46:58: date pass
+04/03/2020 14:46:58: date pass
+04/03/2020 14:46:58: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:49:18: Daily Reporting service started
+04/03/2020 14:50:19: Thread - 0started
+04/03/2020 14:50:19: Thread - 1started
+04/03/2020 14:50:19: Thread - 2started
+04/03/2020 14:50:19: add 2
+04/03/2020 14:50:20: date pass
+04/03/2020 14:50:20: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 14:50:20: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 14:50:21: The specified string is not in the form required for an e-mail address.
+04/03/2020 14:52:35: Daily Reporting service started
+04/03/2020 14:53:35: Thread - 0started
+04/03/2020 14:53:35: Thread - 1started
+04/03/2020 14:53:35: Thread - 2started
+04/03/2020 14:53:35: add 1
+04/03/2020 14:53:36: date pass
+04/03/2020 14:53:37: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 14:54:35: Thread - 0started
+04/03/2020 14:54:35: add 0
+04/03/2020 14:54:35: add 1
+04/03/2020 14:54:35: date pass
+04/03/2020 14:54:35: date pass
+04/03/2020 14:54:35: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:55:35: Thread - 0started
+04/03/2020 14:55:35: add 0
+04/03/2020 14:55:35: add 1
+04/03/2020 14:55:35: add 2
+04/03/2020 14:55:35: date pass
+04/03/2020 14:55:35: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:55:35: date pass
+04/03/2020 14:55:35: date pass
+04/03/2020 14:55:35: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:55:35: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:56:35: Thread - 0started
+04/03/2020 14:56:35: add 0
+04/03/2020 14:56:35: add 2
+04/03/2020 14:56:35: date pass
+04/03/2020 14:56:35: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:56:35: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:57:52: Daily Reporting service started
+04/03/2020 14:58:53: Thread - 0started
+04/03/2020 14:58:53: Thread - 1started
+04/03/2020 14:58:53: add 1
+04/03/2020 14:58:53: add 2
+04/03/2020 14:58:54: date pass
+04/03/2020 14:58:54: date cek pass because 04/03/2020!= 01/03/2020
+04/03/2020 14:58:54: The specified string is not in the form required for an e-mail address.
+04/03/2020 14:59:52: Thread - 0started
+04/03/2020 14:59:52: Thread - 1started
+04/03/2020 14:59:52: add 1
+04/03/2020 14:59:52: date pass
+04/03/2020 14:59:52: fail because 04/03/2020 == 04/03/2020
+04/03/2020 14:59:52: fail because 04/03/2020 == 04/03/2020
+04/03/2020 15:08:57: Daily Reporting service started
+04/03/2020 15:09:39: Daily Reporting service started
+04/03/2020 15:10:39: Thread - 0started
+04/03/2020 15:10:39: Thread - 1started
+04/03/2020 15:10:40: add 1
+04/03/2020 15:10:41: date pass
+04/03/2020 15:10:41: date cek pass because 04/03/2020!= 01/03/2020
+04/03/2020 15:10:41: date cek pass because 04/03/2020!= 01/03/2020
+04/03/2020 15:10:41: The specified string is not in the form required for an e-mail address.
+04/03/2020 15:11:39: Thread - 0started
+04/03/2020 15:11:39: Thread - 1started
+04/03/2020 15:11:39: add 1
+04/03/2020 15:11:39: add 2
+04/03/2020 15:11:39: date pass
+04/03/2020 15:11:39: date pass
+04/03/2020 15:11:39: fail because 04/03/2020 == 04/03/2020
+04/03/2020 15:39:13: Daily Reporting service started
+04/03/2020 15:40:13: Thread - 0started
+04/03/2020 15:40:13: add 0
+04/03/2020 15:40:13: add 1
+04/03/2020 15:40:15: date pass
+04/03/2020 15:40:15: fail because 04/03/2020 == 04/03/2020
+04/03/2020 15:40:16: fail because 04/03/2020 == 04/03/2020
+04/03/2020 15:40:16: fail because 04/03/2020 == 04/03/2020
+04/03/2020 15:41:13: Thread - 0started
+04/03/2020 15:41:13: add 0
+04/03/2020 15:41:13: add 1
+04/03/2020 15:41:13: add 2
+04/03/2020 15:41:13: date pass
+04/03/2020 15:41:13: date pass
+04/03/2020 15:41:13: fail because 04/03/2020 == 04/03/2020
+04/03/2020 15:41:51: Daily Reporting service started
+04/03/2020 15:42:51: Thread - 0started
+04/03/2020 15:42:51: Thread - 1started
+04/03/2020 15:42:51: add 1
+04/03/2020 15:42:53: date pass
+04/03/2020 15:42:53: fail because 04/03/2020 == 04/03/2020
+04/03/2020 15:42:53: fail because 04/03/2020 == 04/03/2020
+04/03/2020 15:42:53: fail because 04/03/2020 == 04/03/2020
+04/03/2020 15:43:51: Thread - 0started
+04/03/2020 15:43:51: add 0
+04/03/2020 15:43:51: add 2
+04/03/2020 15:43:51: date pass
+04/03/2020 15:43:52: fail because 04/03/2020 == 04/03/2020
+04/03/2020 15:44:37: Daily Reporting service started
+04/03/2020 15:45:37: Thread - 0started
+04/03/2020 15:45:37: Thread - 1started
+04/03/2020 15:45:37: add 1
+04/03/2020 15:45:37: add 2
+04/03/2020 15:45:38: date pass
+04/03/2020 15:45:39: date cek pass because 04/03/2020!= 02/03/2020
+04/03/2020 15:45:39: date cek pass because 04/03/2020!= 02/03/2020
+05/03/2020 09:00:35: Daily Reporting service started
+05/03/2020 09:05:35: Thread - 0started
+05/03/2020 09:05:35: Thread - 1started
+05/03/2020 09:05:35: add 1
+05/03/2020 09:05:35: add 2
+05/03/2020 09:05:38: fail because 05/03/2020 08:48:17 < 05/03/2020 10:05:00
+05/03/2020 09:10:35: Thread - 0started
+05/03/2020 09:10:35: Thread - 1started
+05/03/2020 09:10:35: Thread - 2started
+05/03/2020 09:10:35: add 2
+05/03/2020 09:10:35: fail because 05/03/2020 08:53:14 < 05/03/2020 10:05:00
+05/03/2020 09:10:35: fail because 05/03/2020 08:53:14 < 05/03/2020 10:05:00
+05/03/2020 09:30:19: Daily Reporting service started
+05/03/2020 09:31:19: Thread - 0started
+05/03/2020 09:31:19: Thread - 1started
+05/03/2020 09:31:19: add 1
+05/03/2020 09:31:19: add 2
+05/03/2020 09:31:21: fail because 05/03/2020 09:13:59 < 05/03/2020 10:05:00
+05/03/2020 09:32:11: Daily Reporting service started
+05/03/2020 09:33:11: Thread - 0started
+05/03/2020 09:33:11: Thread - 1started
+05/03/2020 09:33:11: add 1
+05/03/2020 09:33:11: add 2
+05/03/2020 09:33:13: fail because 05/03/2020 09:15:51 < 05/03/2020 10:05:00
+05/03/2020 09:34:37: Daily Reporting service started
+05/03/2020 09:35:37: Thread - 0started
+05/03/2020 09:35:37: Thread - 1started
+05/03/2020 09:35:37: add 1
+05/03/2020 09:35:37: add 2
+05/03/2020 09:35:39: fail because 05/03/2020 09:18:17 < 05/03/2020 10:05:00
+05/03/2020 09:36:18: Daily Reporting service started
+05/03/2020 09:37:18: Thread - 0started
+05/03/2020 09:37:18: Thread - 1started
+05/03/2020 09:37:18: add 1
+05/03/2020 09:37:18: add 2
+05/03/2020 09:37:20: fail because 05/03/2020 09:19:58 < 05/03/2020 10:05:00
+05/03/2020 09:41:37: Daily Reporting service started
+05/03/2020 09:42:38: Thread - 0started
+05/03/2020 09:42:38: Thread - 1started
+05/03/2020 09:42:38: add 1
+05/03/2020 09:42:38: add 2
+05/03/2020 09:42:39: date pass
+05/03/2020 09:42:41: mscorlib; The process cannot access the file 'D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Debug\ErrorLog\ErrGen 05-03-2020.Txt' because it is being used by another process.
+05/03/2020 09:42:41: A recipient must be specified.
+05/03/2020 09:43:37: Thread - 0started
+05/03/2020 09:43:37: add 0
+05/03/2020 09:43:38: add 1
+05/03/2020 09:43:38: add 2
+05/03/2020 09:43:38: date pass
+05/03/2020 09:43:38: mscorlib; The process cannot access the file 'D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Debug\ErrorLog\ErrGen 05-03-2020.Txt' because it is being used by another process.
+05/03/2020 09:43:38: A recipient must be specified.
+05/03/2020 09:44:31: Daily Reporting service started
+05/03/2020 09:45:31: Thread - 0started
+05/03/2020 09:45:31: Thread - 1started
+05/03/2020 09:45:31: add 1
+05/03/2020 09:45:31: add 2
+05/03/2020 09:45:32: date pass
+05/03/2020 09:45:32: mscorlib; The process cannot access the file 'D:\Kuliah\Semester8\Magang\Project\APP Test\KirimEmailOtomatis vesrion3 Win Service 2 -Thread\KirimEmailOtomatis\KirimEmailOtomatis\bin\Debug\ErrorLog\ErrGen 05-03-2020.Txt' because it is being used by another process.
+05/03/2020 09:45:33: A recipient must be specified.
+05/03/2020 09:46:49: Daily Reporting service started
+05/03/2020 09:48:58: Daily Reporting service started
+05/03/2020 09:49:58: Thread - 0started
+05/03/2020 09:49:58: Thread - 1started
+05/03/2020 09:49:58: add 1
+05/03/2020 09:49:58: add 2
+05/03/2020 09:50:00: date pass
+05/03/2020 09:50:00: date cek pass because 05/03/2020!= 04/03/2020
+05/03/2020 09:51:18: Daily Reporting service started
+05/03/2020 09:52:18: Thread - 0started
+05/03/2020 09:52:18: Thread - 1started
+05/03/2020 09:52:18: add 1
+05/03/2020 09:52:18: add 2
+05/03/2020 09:52:20: date pass
+05/03/2020 09:52:21: date cek pass because 05/03/2020!= 03/03/2020
+06/03/2020 16:23:04: Daily Reporting service started
+06/03/2020 16:24:05: Thread - 0started
+06/03/2020 16:24:05: Thread - 1started
+06/03/2020 16:24:05: Thread - 2started
+06/03/2020 16:24:05: add 2
+06/03/2020 16:24:07: date pass
+06/03/2020 16:24:07: date cek pass because 06/03/2020!= 05/03/2020
+06/03/2020 16:24:07: date cek pass because 06/03/2020!= 05/03/2020
+18/03/2020 14:12:20: Daily Reporting service started

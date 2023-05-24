@@ -1,0 +1,10 @@
+
+email Algoritma
+waktu di set pada table dc_file_scheduler_t 
+alamat email di dapat pada table DC_AUTO_EMAILHDR_T dan DC_AUTO_EMAILDTL_T dengan MAIL_TYPE_ALERT sebagai OTP
+dan MAIL_FK_DCKODE sesuai dengan DC masing masing
+jika ada 2 email yg terdaftar maka yang akan dikirim hanya 1 saja
+
+untuk Nama pengirim di ambil dari nama Email
+
+windows service akan melakukan ceking setiap 5 menit jika sysdate sudah melebihi jam yang di tentukan pada database dan last run time tidak sama dengan sysdate maka email akan dikirim.

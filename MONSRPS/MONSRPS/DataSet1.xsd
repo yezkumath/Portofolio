@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SRPS" msprop:Generator_TableClassName="SRPSDataTable" msprop:Generator_TableVarName="tableSRPS" msprop:Generator_RowChangedName="SRPSRowChanged" msprop:Generator_TablePropName="SRPS" msprop:Generator_RowDeletingName="SRPSRowDeleting" msprop:Generator_RowChangingName="SRPSRowChanging" msprop:Generator_RowEvHandlerName="SRPSRowChangeEventHandler" msprop:Generator_RowDeletedName="SRPSRowDeleted" msprop:Generator_RowClassName="SRPSRow" msprop:Generator_UserTableName="SRPS" msprop:Generator_RowEvArgName="SRPSRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="KODE_SUPP" msprop:Generator_ColumnVarNameInTable="columnKODE_SUPP" msprop:Generator_ColumnPropNameInRow="KODE_SUPP" msprop:Generator_ColumnPropNameInTable="KODE_SUPPColumn" msprop:Generator_UserColumnName="KODE_SUPP" type="xs:string" minOccurs="0" />
+              <xs:element name="NAMA_SUPP" msprop:Generator_ColumnVarNameInTable="columnNAMA_SUPP" msprop:Generator_ColumnPropNameInRow="NAMA_SUPP" msprop:Generator_ColumnPropNameInTable="NAMA_SUPPColumn" msprop:Generator_UserColumnName="NAMA_SUPP" type="xs:string" minOccurs="0" />
+              <xs:element name="PLUID" msprop:Generator_ColumnVarNameInTable="columnPLUID" msprop:Generator_ColumnPropNameInRow="PLUID" msprop:Generator_ColumnPropNameInTable="PLUIDColumn" msprop:Generator_UserColumnName="PLUID" type="xs:string" minOccurs="0" />
+              <xs:element name="DESKRIPSI" msprop:Generator_ColumnVarNameInTable="columnDESKRIPSI" msprop:Generator_ColumnPropNameInRow="DESKRIPSI" msprop:Generator_ColumnPropNameInTable="DESKRIPSIColumn" msprop:Generator_UserColumnName="DESKRIPSI" type="xs:string" minOccurs="0" />
+              <xs:element name="DIVISI" msprop:Generator_ColumnVarNameInTable="columnDIVISI" msprop:Generator_ColumnPropNameInRow="DIVISI" msprop:Generator_ColumnPropNameInTable="DIVISIColumn" msprop:Generator_UserColumnName="DIVISI" type="xs:string" minOccurs="0" />
+              <xs:element name="DEPARTEMEN" msprop:Generator_ColumnVarNameInTable="columnDEPARTEMEN" msprop:Generator_ColumnPropNameInRow="DEPARTEMEN" msprop:Generator_ColumnPropNameInTable="DEPARTEMENColumn" msprop:Generator_UserColumnName="DEPARTEMEN" type="xs:string" minOccurs="0" />
+              <xs:element name="KATEGORI" msprop:Generator_ColumnVarNameInTable="columnKATEGORI" msprop:Generator_ColumnPropNameInRow="KATEGORI" msprop:Generator_ColumnPropNameInTable="KATEGORIColumn" msprop:Generator_UserColumnName="KATEGORI" type="xs:string" minOccurs="0" />
+              <xs:element name="TAG" msprop:Generator_ColumnVarNameInTable="columnTAG" msprop:Generator_ColumnPropNameInRow="TAG" msprop:Generator_ColumnPropNameInTable="TAGColumn" msprop:Generator_UserColumnName="TAG" type="xs:string" minOccurs="0" />
+              <xs:element name="QTY" msprop:Generator_ColumnVarNameInTable="columnQTY" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" msprop:Generator_UserColumnName="QTY" type="xs:string" minOccurs="0" />
+              <xs:element name="HPP" msprop:Generator_ColumnVarNameInTable="columnHPP" msprop:Generator_ColumnPropNameInRow="HPP" msprop:Generator_ColumnPropNameInTable="HPPColumn" msprop:Generator_UserColumnName="HPP" type="xs:string" minOccurs="0" />
+              <xs:element name="NRBSEPIHAK" msprop:Generator_ColumnVarNameInTable="columnNRBSEPIHAK" msprop:Generator_ColumnPropNameInRow="NRBSEPIHAK" msprop:Generator_ColumnPropNameInTable="NRBSEPIHAKColumn" msprop:Generator_UserColumnName="NRBSEPIHAK" type="xs:string" minOccurs="0" />
+              <xs:element name="BAPSEPIHAK" msprop:Generator_ColumnVarNameInTable="columnBAPSEPIHAK" msprop:Generator_ColumnPropNameInRow="BAPSEPIHAK" msprop:Generator_ColumnPropNameInTable="BAPSEPIHAKColumn" msprop:Generator_UserColumnName="BAPSEPIHAK" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,31 @@
+CEK !
+Fild Kosong as
+Pengecekan Kadaluarsa Kode
+  - Table DC_NRBAUTENTIK_T membandingkan tgl_exp dengan sysdateKonfirmasi Cetak Ulang
+Pengecekan Cetak ulang
+  - Table DC_NRBAUTENTIK_T  jika no_draft sudah terisi
+  - Data Login akan di update kembali
+
+CETAK !
+Update NO_DRAFT, USER_LOGIN, IP_LOGIN pada table DC_NRBAUTENTIK_T 
+NO_DRAFT didapat dari table DC_JLR_DRAFT_RETUR_T
+
+jika Kode Supliyer yang ada pada table DC_NRBAUTENTIK_T  tidak terdapat pada table DC_JLR_DRAFT_RETUR_T
+tidak ada maka proses update gagal dan system akan menampilkan bahwa kode autentifikasi tidak valid
+
+
+Bagian 1 diambil dari table DC_NRBAUTENTIK_T 
+Bagian 2 diambil dari table DC_JLR_DRAFT_RETUR_T
+Bagian 3 diambil dari table DC_TEMPCETAKRETURSUP_T dan tanggalnya pada table DC_HEADER_TRANSAKSI_T
+yang memiliki flag retur sepihak dan data nya tidak terdapat pada table DC_NRBHDR_SERAHTERIMA_T dan DC_NRBDTL_SERAHTERIMA_T
+
+
+email Algoritma
+waktu di set pada table dc_file_scheduler_t 
+alamat email di dapat pada table DC_AUTO_EMAILHDR_T dan DC_AUTO_EMAILDTL_T dengan MAIL_TYPE_ALERT sebagai OTP
+dan MAIL_FK_DCKODE sesuai dengan DC masing masing
+jika ada 2 email yg terdaftar maka yang akan dikirim hanya 1 saja
+
+untuk Nama pengirim di ambil dari nama Email
+
+windows service akan melakukan ceking setiap 5 menit jika sysdate sudah melebihi jam yang di tentukan pada database dan last run time tidak sama dengan sysdate maka email akan dikirim.
